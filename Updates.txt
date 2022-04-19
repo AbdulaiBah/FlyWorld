@@ -1,6 +1,0 @@
-*Homework 3 - FlyWorld*
-1. “Uneeded Lines Array”
-- replaced lines array with a string variable instead
-2. "Improper Movefly"
-- Movefly method now uses the predators boolean method to return
-whether or not the fly has been eaten
